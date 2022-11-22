@@ -1,0 +1,1 @@
+Your clean transcripts will be generated in this folder. 
